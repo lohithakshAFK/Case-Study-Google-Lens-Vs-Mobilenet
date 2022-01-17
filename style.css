@@ -1,12 +1,15 @@
 body{
     background-color:black;
     color:black;
-    
+    background-image:url(gr.jpg);
+    ;
+    background-size:cover;
 }
 
 .img_display{
     height:150px;
     width:150px;
+    border-radius:10px;
 }
 
 .display{
@@ -14,4 +17,5 @@ body{
     text-align:center;
     margin:10px;
     border-radius:10px;
+    width:60%;
 }
